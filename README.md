@@ -12,7 +12,7 @@ This demo is an example of a production monitoring system that runs automated te
 
 I believe RobotFramework is an incredible tool in because of its extensibility and capabilities for python developers.
 
-I created a library [robotframework-seleniumproxy]() that extends [robotframework-seleniumlibrary](). The difference is that it uses a threaded proxy server / client to capture the request / responses generated from the webdriver.
+I created a library [robotframework-seleniumproxy](https://github.com/teaglebuilt/robotframework-seleniumproxy) that extends [robotframework-seleniumlibrary](https://github.com/robotframework/SeleniumLibrary). The difference is that it uses a threaded proxy server / client to capture the request / responses generated from the webdriver.
 
 # How is this relevant?
 
